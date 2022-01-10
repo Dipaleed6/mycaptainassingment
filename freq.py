@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 22 12:02:38 2021
-
-@author: Nithyashri
-"""
-
-
 def freq(s):
     d=dict()
     for key in s:
