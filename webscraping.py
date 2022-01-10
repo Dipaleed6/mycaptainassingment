@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-We have the list of jobs available along with the name of Company here
-"""
-
 import requests
 from bs4 import BeautifulSoup as bs
 
