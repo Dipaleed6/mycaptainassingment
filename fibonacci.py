@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 15 15:43:21 2021
-
-@author: Nithyashri
-"""
-
-"""
-Write a Python Program for Fibonacci numbers 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144
-"""
-
 a=0
 b=1
 no=0
