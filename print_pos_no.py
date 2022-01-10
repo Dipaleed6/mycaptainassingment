@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 15 16:25:59 2021
-
-@author: Nithyashri
-"""
-
 list1 = []
 list2=[]
 n = int(input("Enter number of elements for list 1 : "))
