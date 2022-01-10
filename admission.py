@@ -1,15 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  1 23:47:49 2021
-
-@author: Nithyashri
-"""
-
 import csv
 
 def write_csv(info_list):
     
-    with open("C:/Users/Nithyashri/Desktop/Nithu/PYTHON/AdmData.csv", 'a',newline='') as csvfile:
+    with open("C:/Users/DELL/OneDrive/Desktop/MycaptainAssignments csv", 'a',newline='') as csvfile:
         writer=csv.writer(csvfile)
         if csvfile.tell()==0:
             writer.writerow(fields)
